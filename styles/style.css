@@ -1,0 +1,52 @@
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #d6e2f0;
+}
+
+p {
+  font-size: 15px;
+}
+
+.qr__card {
+  padding: 14px;
+  width: 300px;
+  border-radius: 16px;
+  background-color: white;
+}
+
+.qr__image {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.qr__text {
+  padding: 10px 20px;
+}
+
+.qr__title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  color: #1f3251;
+}
+
+.qr__desc {
+  text-align: center;
+  font-weight: 400;
+  color: #7b879d;
+}
+/*# sourceMappingURL=style.css.map */
